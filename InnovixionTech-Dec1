@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #007bff;
+        }
+
+        h2 {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #007bff;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Brief Bio or Tagline</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Welcome to my personal website! I am passionate about [your interests]. This is a brief introduction to who I am and what I love to do.
+        </p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: your@email.com</li>
+            <li>Phone: (123) 456-7890</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Connect with Me</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></li>
+            <li><a href="https://twitter.com/yourhandle" target="_blank">Twitter</a></li>
+            <!-- Add more social media links as needed -->
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 Your Name. All rights reserved.
+    </footer>
+</body>
+</html>
